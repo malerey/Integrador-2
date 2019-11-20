@@ -7,3 +7,5 @@ https://github.com/Ada-IT/bootcamp-frontend/blob/master/integradores/Integrador%
 
 ### Ejemplo funcional:
 
+https://malerey.github.io/Integrador-2/index.html
+
